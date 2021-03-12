@@ -1,0 +1,97 @@
+.parent{
+  background-color: rgb(240,240,240);
+  margin: 0;
+}
+.firstbox{
+  padding-top: 30px;
+
+  height: 86%;
+  width: 65%;
+  background-color: white;
+  position: absolute;
+  top: 7%;
+  left: 16.5%;
+  border-radius: 10px;
+  box-shadow: 1px 1px 20px -9px;
+}
+.childfbox1{
+
+  height:50%;
+  width: 50%;
+  background-color: hsl(179, 62%, 40%);
+  position: absolute;
+  top:50%;
+  border-bottom-left-radius: 3%;
+}
+.childfbox2{
+  height:50%;
+  width: 50%;
+  background-color: hsl(179, 62%, 48%);
+  position: absolute;
+  top:50%;
+  left: 50%;
+  border-bottom-right-radius: 3%;
+}
+.signup{
+
+  height:80px;
+  width: 70%;
+  background-color: hsl(71, 73%, 54%);
+  border-radius: 5%;
+  box-shadow: 1px 1px 20px -9px;
+  position: absolute;
+  top: 60%;
+  left: 11%;
+}
+.sigup{
+  font-family: serif;
+  font-weight: lighter;
+  text-align: center;
+  color: snow;
+  font-size: 33px;
+  text-shadow: 1px 1px 4px;
+}
+.signup:hover{
+    box-shadow: 1px 1px 20px;
+}
+.jist{
+
+  font-family: serif;
+  font-weight: lighter;
+ color: hsl(179, 62%, 30%);
+ text-align: center;
+}
+.jist1{
+
+  font-family: serif;
+  font-weight: 500;
+  color:hsl(71, 73%, 54%);
+   text-align: center;
+}
+.jist3{
+  font-family: serif;
+  font-weight: lighter;
+ color: rgb(200,200,200);
+ text-align: center;
+}
+.white{
+  font-family: serif;
+  font-weight: bolder;
+  text-align: center;
+  color: rgb(246,246,246);
+  text-shadow: 1px 1px 4px;
+
+}
+.white1{
+  font-family: serif;
+  font-weight: lighter;
+  text-align: center;
+  color: rgb(246,246,246);
+}
+.lastwhite{
+  font-family: serif;
+  font-weight: lighter;
+  text-align: center;
+  color: rgb(246,246,246);
+  text-shadow: 1px 1px 4px;
+}
