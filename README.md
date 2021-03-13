@@ -1,5 +1,5 @@
 # single-price-grid-comparision-
-This is an user friendy and roburst is made with HTML and CSS 
+This is an user friendy and robust website is made with HTML and CSS 
 Thanks to frontendmentor.io to provide me with resource
 Do you want to know more and revise and practice your 
 frontrnd skills
